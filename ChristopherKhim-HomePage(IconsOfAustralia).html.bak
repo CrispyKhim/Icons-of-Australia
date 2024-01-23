@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8"/>
+<title>Home Page</title>
+<link rel="icon" type="image/x-icon" href="https://cdn2.iconfinder.com/data/icons/major-world-flag-pins/1200/australia_flag_map_pointer_pin-512.png">
+<style>
+div {
+	background: linear-gradient(to bottom, #00843d 0%, #ffcd00 100%);
+}
+
+h1 {
+  padding: 4px;
+  width: 500px;
+  background-color: #fabd02;
+  border: 2px solid lightgray;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin: auto;
+  color: brown;
+  text-align: center;
+}
+
+.pg {
+  background-color: #dcedc8;
+  padding: 4px;
+  margin: auto;
+  width: 900px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  color: black;
+  text-align:center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+</head>
+
+<body style="font-family:helvetica; background:#005D8C;">
+<div>
+<!-- Header -->
+<header style="text-align:center; color:black;"><b>Icons of Australia</b></header>
+<hr>
+<!-- Title and subtitle section -->
+<h1 style="font-size:32px;">Home Page</h1>
+<p class="pg">Welcome to the home page of Icons of Australia!</p>
+<hr>
+<!-- Introduction to Australia -->
+<pre style="text-align:center; color:black; width:700px; height:75px; padding: 4px; margin: auto; background-color: #4682B4;"><b>Australia</b> is one of the largest countries yet smallest continent on Earth, lying between the 
+Pacific and Indian ocean in the Southern Hemisphere. Globally, it is famous for its <b>natural 
+wonders, wide open spaces, iconic infrastructure</b> and is widely known for Australia's Outback and 
+its conditions. These icons have helped shaped Australia in the modern world and have grown the 
+country in many ways. </pre>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png" alt="Flag of Australia" title="Flag of Australia" width="600" height="300">
+<br>
+<pre style="text-align:center; color:black; width:700px; height:150px; padding: 4px; margin: auto; background-color: #4682B4;">
+Most of the interior of the continent is arid to semi-desert and droughts because of low rainfall. 
+Australia is rich in mineral deposits including gold, coal, and iron ore. The coastal areas of 
+Australia have the best soils for agriculture; therefore, areas around the states of Australia 
+such as Perth, Adelaide, Melbourne, Sydney, and Brisbane have grown rich in agriculture 
+and food production and are the main agricultural centers.
+
+Not only the the states of Australia rich in agriculture, it is also rich in
+infrastructure that makes itself an icon of Australia. Australia has a wide variety of mega 
+structures 
+</pre>
+
+<hr>
+<!-- Links to visit websites. -->
+<h4><strong>Click on one of these links for more information!</strong></h4>
+<a style="font-size:30px" href="ChristopherKhim-Geography&History(IconsOfAustralia).html" title="Visit Australia's geography and history">Geography & History</a>
+<a style="font-size:30px" href="ChristopherKhim-Geography&HistoryGalleryPage(IconsOfAustralia).html" title="Visit Australia's gallery page">Gallery Page</a>
+<a style="font-size:30px" href="ChristopherKhim-ContactPage(IconsOfAustralia).html" title="Visit our contacts page">Contacts Page</a>
+</div>

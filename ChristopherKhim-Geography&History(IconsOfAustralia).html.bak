@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8"/>
+<style>
+div {
+    background: linear-gradient(to bottom, #ff3300 20%, #000000 95%);
+}
+
+details > summary {
+  padding: 4px;
+  width: 500px;
+  background-color: #eeeeee;
+  border: 2px solid lightgray;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin: auto;
+}
+
+details > pre {
+  background-color: #eeeeee;
+  padding: 4px;
+  margin: auto;
+  width: 700px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+.geo {
+  background-color: #F28C28;
+  padding: 4px;
+  margin: auto;
+  width: 900px;
+  height: 140px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  color: black;
+  text-align:center;
+}
+
+.geohead {
+  background-color: #F28C28;
+  padding: 4px;
+  margin: auto;
+  width: 900px;
+  height: 30px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  color: black;
+  text-align:center;
+}
+
+.his {
+  background-color: #F28C28;
+  padding: 4px;
+  margin: auto;
+  width: 900px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  color: black;
+  text-align:center;
+}
+
+.hishead {
+  background-color: #F28C28;
+  padding: 4px;
+  margin: auto;
+  width: 900px;
+  height: 30px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  color: black;
+  text-align:center;
+}
+
+.hishead3 {
+  background-color: #F28C28;
+  padding: 4px;
+  margin: auto;
+  width: 900px;
+  height: 20px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  color: black;
+  text-align:center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<title>Geography & History</title>
+<link rel="icon" type="image/x-icon" href="https://cdn2.iconfinder.com/data/icons/major-world-flag-pins/1200/australia_flag_map_pointer_pin-512.png">
+</head>
+
+<body style="font-family:helvetica; background:#007F00;">
+<div>
+<!-- Header -->
+<header style="text-align:center; color:black;"><b>Icons of Australia</b></header>
+<hr>
+
+<!-- Title and subtitle section -->
+<details>
+	<summary style="text-align:center; color:black; background-color:#FFEB00; font-size:32px;"><b>Geography & History</b></summary>
+	<pre style="color:black; text-align:center; background-color:#FEFD98;">This page will look into Australia's geography and history, 
+	as well as some significant figures of Australia originating from the past.</pre>
+</details>
+
+<hr>
+<!-- Here is a short text about Australia's Geography -->
+<pre style="margin:auto; font-size:26px;" class="geohead"><b>Geography, landscape, and biomes</b></pre>
+<pre style="margin:auto;" class="geo">The <strong>geography</strong> of Australia encompasses a wide variety of biogeographic regions being the world's smallest continent, while 
+comprising the territory of the sixth-largest country in the world. The population of Australia is concentrated along the 
+eastern and south-eastern coasts. The geography of the continent is extremely diverse, ranging from the snow-capped mountains 
+of the Australian Alps and Tasmania to large deserts, tropical and temperate forests, grasslands, heathlands and woodlands. 
+
+Australia is a continent and an island located in Oceania between the Indian Ocean and the South Pacific Ocean. 
+It shares its name with the country that claims control over it. The territory consists of the entire continent 
+and smaller outlying islands, making it the sixth-largest country in the world by area 
+of jurisdiction, which comprises <strong>7,686,850 km2 (2,967,910 sq mi)</strong>.</pre>
+<br>
+<img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/86894/images/Biomes.gif" alt="Australia's biomes" title="Australia's biomes" width="800" height="602">
+<h3 style="text-align:center; color:orange"><u>Biomes of Australia</u></h3>
+<br>
+<!-- Here is a short text about Australia's History -->
+<pre style="margin:auto; font-size:26px;" class="hishead">
+<b>Historical Background</b></pre>
+<pre style="margin:auto; font-size:18.72px;" class="hishead3"><b>Prehistory</b></pre>
+<pre style="margin:auto;" class="his">
+Humans are thought to have arrived in Australia about <strong>30,000</strong> years ago. The original inhabitants, who have descendants to this 
+day, are known as <i><b>aborigines</b></i>. In the eighteenth century, the aboriginal population was about 300,000.
+The aborigines, who have been described alternately as nomadic hunter-gatherers and fire-stick farmers 
+(known for using fire to clear the brush and attract grass-eating animals instead of cultivating the land), 
+settled primarily in the well-watered coastal areas. Some observers believe that poor treatment of the environment by 
+aborigines over many centuries may have led to the barren nature of much of the Australian interior. Higher forms of 
+mammals never reached Australia because the land bridge from Asia ceased to exist about <b>50 million years ago</b>.
+<br>
+<img src="https://live-production.wcms.abc-cdn.net.au/02597e6bcc61430dffd2d3348aaa4141?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485" alt="Aboriginal Australians" title="Aboriginal Australians" width="862" height="485">
+</pre>
+<pre style="margin:auto; font-size:18.72px;" class="hishead3"><b>European Settlement</b></pre>
+<pre style="margin:auto;" class="his">
+The period of European discovery and settlement began on <b>August 23, 1770</b>, when <b>Captain James Cook of the 
+British Royal Navy</b> took possession of the eastern coast of Australia in the name of George III. 
+His party had spent four months in exploration along eastern Australia, from south to north. 
+Unlike Dutch explorers, who deemed the land of doubtful value and preferred to focus on the 
+rich Indies to the north, Cook and Joseph Banks of the Royal Society, who accompanied Cook for 
+scientific observations, reported that the land was more fertile. Cook’s fame in Britain helped to 
+fix the attention of the British government on the area, which had some strategic significance in the 
+European wars of the late eighteenth and early nineteenth centuries.
+<br>
+<img src="https://www.worldatlas.com/r/w1200/upload/b1/49/f8/1024px-the-founding-of-australia-by-capt-arthur-phillip-r-n-sydney-cove-jan-26th-1788.jpg" alt="European Settlement" title="European Settlement" width="563" height="413">
+</pre>
+
+<!-- Links to visit websites. -->
+<h4><strong>Click on one of these links for more information!</strong></h4>
+<a style="font-size:30px" href="HomePage.html" title="Return back to home page">Home Page</a>
+<a style="font-size:30px" href="ChristopherKhim-GalleryPage(IconsOfAustralia).html" title="Visit Australia's gallery page">Gallery Page</a>
+<a style="font-size:30px" href="ChristopherKhim-ContactPage(IconsOfAustralia).html" title="Visit our contacts page">Contacts Page</a>
+
+</div>
+</body>

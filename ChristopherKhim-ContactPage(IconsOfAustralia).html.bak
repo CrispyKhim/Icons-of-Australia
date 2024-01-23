@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<style>
+div {
+    background: linear-gradient(to bottom right, #33ccff 0%, #ff99cc 100%);
+}
+
+h1 {
+  padding: 4px;
+  width: 500px;
+  background-color: #219ebc;
+  border: 2px solid lightgray;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin: auto;
+  color: orange;
+  text-align: center;
+}
+
+.sub {
+  background-color: #8ecae6;
+  padding: 4px;
+  margin: auto;
+  width: 900px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+<title>Contact Page</title>
+<link rel="icon" type="image/x-icon" href="https://cdn2.iconfinder.com/data/icons/major-world-flag-pins/1200/australia_flag_map_pointer_pin-512.png">
+</head>
+
+<body style="font-family:helvetica; background:#cfbaf0;">
+<div>
+<!-- Header -->
+<header style="text-align:center; color:black;"><b>Icons of Australia</b></header>
+<hr>
+<!-- Title and subtitle section -->
+<h1 style="font-size:32px;">Contacts</h1>
+<p style="color:black; text-align:center;" class="sub">Follow me on one of these social media platforms!</p>
+
+<hr>
+</div>
+
+<!-- Social media images with links -->
+<p><a href="https://www.facebook.com/">
+<img src="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515400_10885.png" alt="Facebook" title="Facebook" width="235" height="82">
+</a></p>
+<h3 style="text-align:center">Facebook</h3>
+<hr>
+<p><a href="https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+<img src="https://www.computerhope.com/jargon/t/twitter.png" alt="Twitter" title="Twitter" width="175" height="135">
+</a></p>
+<h3 style="text-align:center;">Twitter</h3>
+<hr>
+<p><a href="https://www.instagram.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Instagram" title="Instagram" width="150" height="150">
+</a></p>
+<h3 style="text-align:center">Instagram</h3>
+<hr>
+<p><a href="https://www.youtube.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Youtube" title="Youtube" width="160" height="111">
+</a></p>
+<h3 style="text-align:center">Youtube</h3>
+<hr>
+
+<!-- Links to visit websites. -->
+<h4><strong>Click on one of these links for more information!</strong></h4>
+<a style="font-size:30px" href="HomePage.html" title="Return back to home page">Home Page</a>
+<a style="font-size:30px" href="ChristopherKhim-Geography&History(IconsOfAustralia).html" title="Visit Australia's geography and history">Geography & History</a>
+<a style="font-size:30px" href="ChristopherKhim-GalleryPage(IconsOfAustralia).html" title="Visit Australia's gallery page">Gallery Page</a>
+
+</body>
+</html>
